@@ -1,4 +1,4 @@
-# An App created using PhoneGap
+# Deck Shuffling App for Off the Rails Board Game created using PhoneGap
 
 ## Usage
 
